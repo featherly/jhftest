@@ -1,1 +1,1 @@
-print([x*2 for x in range(7)])
+print([x*7 for x in range(7)])
